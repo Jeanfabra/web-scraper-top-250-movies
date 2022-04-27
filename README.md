@@ -8,6 +8,6 @@ This is another project on my path as a data scientist. In this case I wanted to
 * IMDB Rating
 * Release year
 * Number of qualifiers
-*Summary
+* Summary
 
 I know there are ways to make a more efficient scraper, I'm learning, maybe in the future I'll be able to create a v2.
